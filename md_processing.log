@@ -1,0 +1,4 @@
+2026-11-25 22:03:40,251 - INFO - Starting Markdown processing: sample-1.md
+2026-11-25 22:03:40,252 - INFO - Read sample-1.md using encoding utf-8
+2026-11-25 22:03:40,252 - INFO - Validated 3 out of 3 blocks
+2026-11-25 22:03:40,252 - INFO - Markdown processing completed: sample-1.md, 3 blocks

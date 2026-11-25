@@ -1,0 +1,46 @@
+2026-11-22 23:02:37,266 - INFO - Starting DOCX processing: document.docx
+2026-11-22 23:03:48,304 - INFO - Starting DOCX processing: ClimateChangemapping15-August.docx.docx
+2026-11-22 23:03:48,631 - WARNING - Mammoth warning: Message(type='warning', message='Image of type image/x-wmf is unlikely to display in web browsers')
+2026-11-22 23:03:48,633 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised paragraph style: Body Text Numbered (Style ID: BodyTextNumbered)')
+2026-11-22 23:03:48,633 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised run style: Body Text Numbered Char (Style ID: BodyTextNumberedChar)')
+2026-11-22 23:03:48,633 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised paragraph style: Normal1 (Style ID: Normal1)')
+2026-11-22 23:03:48,704 - INFO - Validation complete: 404 valid blocks.
+2026-11-22 23:03:48,704 - INFO - DOCX processing completed: ClimateChangemapping15-August.docx.docx, 404 blocks
+2026-11-22 23:14:10,924 - INFO - Starting DOCX processing: ClimateChangemapping15-August.docx.docx
+2026-11-22 23:14:11,561 - WARNING - Mammoth warning: Message(type='warning', message='Image of type image/x-wmf is unlikely to display in web browsers')
+2026-11-22 23:14:11,561 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised paragraph style: Body Text Numbered (Style ID: BodyTextNumbered)')
+2026-11-22 23:14:11,561 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised run style: Body Text Numbered Char (Style ID: BodyTextNumberedChar)')
+2026-11-22 23:14:11,561 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised paragraph style: Normal1 (Style ID: Normal1)')
+2026-11-22 23:14:11,696 - INFO - Validation complete: 404 valid blocks.
+2026-11-22 23:14:11,696 - INFO - DOCX processing completed: ClimateChangemapping15-August.docx.docx, 404 blocks
+2026-11-22 23:21:26,523 - INFO - Starting DOCX processing: climate_change_overview_en.doc
+2026-11-22 23:24:12,072 - INFO - Starting DOCX processing: climate_change_overview_en.docx
+2026-11-22 23:24:12,072 - ERROR - DOCX extraction failed.
+Traceback (most recent call last):
+  File "C:\Users\yashw\Desktop\RAG\file_handling\docs\open_docx.py", line 46, in docx_open
+    result = mammoth.convert_to_html(docx_file)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yashw\Desktop\RAG\.venv\Lib\site-packages\mammoth\__init__.py", line 12, in convert_to_html
+    return convert(*args, output_format="html", **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yashw\Desktop\RAG\.venv\Lib\site-packages\mammoth\__init__.py", line 34, in convert
+    kwargs["embedded_style_map"] = read_style_map(fileobj)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yashw\Desktop\RAG\.venv\Lib\site-packages\mammoth\docx\style_map.py", line 66, in read_style_map
+    with open_zip(fileobj, "r") as zip_file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yashw\Desktop\RAG\.venv\Lib\site-packages\mammoth\zips.py", line 9, in open_zip
+    return _Zip(ZipFile(fileobj, mode))
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\yashw\AppData\Local\Programs\Python\Python312\Lib\zipfile\__init__.py", line 1354, in __init__
+    self._RealGetContents()
+  File "C:\Users\yashw\AppData\Local\Programs\Python\Python312\Lib\zipfile\__init__.py", line 1421, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+2026-11-22 23:25:07,191 - INFO - Starting DOCX processing: ClimateChangemapping15-August.docx.docx
+2026-11-22 23:25:07,662 - WARNING - Mammoth warning: Message(type='warning', message='Image of type image/x-wmf is unlikely to display in web browsers')
+2026-11-22 23:25:07,662 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised paragraph style: Body Text Numbered (Style ID: BodyTextNumbered)')
+2026-11-22 23:25:07,662 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised run style: Body Text Numbered Char (Style ID: BodyTextNumberedChar)')
+2026-11-22 23:25:07,662 - WARNING - Mammoth warning: Message(type='warning', message='Unrecognised paragraph style: Normal1 (Style ID: Normal1)')
+2026-11-22 23:25:07,898 - INFO - Validation complete: 404 valid blocks.
+2026-11-22 23:25:07,898 - INFO - DOCX processing completed: ClimateChangemapping15-August.docx.docx, 404 blocks

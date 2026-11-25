@@ -1,0 +1,8 @@
+2026-11-23 21:37:42,234 - INFO - Starting TXT processing: simple.txt
+2026-11-23 21:37:42,234 - INFO - Read simple.txt using encoding utf-8
+2026-11-23 21:37:42,234 - INFO - Validated 2 blocks out of 2
+2026-11-23 21:37:42,234 - INFO - Completed TXT processing: simple.txt, 2 blocks
+2026-11-25 21:16:39,512 - INFO - Starting TXT processing: simple.txt
+2026-11-25 21:16:39,524 - INFO - Read simple.txt using encoding utf-8
+2026-11-25 21:16:39,526 - INFO - Validated 2 blocks out of 2
+2026-11-25 21:16:39,526 - INFO - Completed TXT processing: simple.txt, 2 blocks
