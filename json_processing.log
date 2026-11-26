@@ -1,0 +1,16 @@
+2026-11-25 23:16:24,289 - INFO - Starting JSON processing: simple-object.json
+2026-11-25 23:16:24,289 - INFO - JSON parsed successfully using utf-8
+2026-11-25 23:16:24,289 - INFO - Validated 1 out of 1 blocks
+2026-11-25 23:16:24,300 - INFO - JSON processing completed: simple-object.json, 1 blocks
+2026-11-26 01:19:13,726 - INFO - Starting JSON processing: simple-object.json
+2026-11-26 01:19:13,743 - INFO - JSON parsed successfully using utf-8
+2026-11-26 01:19:13,750 - INFO - Validated 1 out of 1 blocks
+2026-11-26 01:19:13,751 - INFO - JSON processing completed: simple-object.json, 1 blocks
+2026-11-26 22:15:57,944 - INFO - Starting JSON processing: simple-object.json
+2026-11-26 22:15:57,966 - INFO - JSON parsed successfully using utf-8
+2026-11-26 22:15:57,972 - INFO - Validated 1 out of 1 blocks
+2026-11-26 22:15:57,976 - INFO - JSON processing completed: simple-object.json, 1 blocks
+2026-11-26 22:21:55,952 - INFO - Starting JSON processing: simple-object.json
+2026-11-26 22:21:55,977 - INFO - JSON parsed successfully using utf-8
+2026-11-26 22:21:56,010 - INFO - Validated 1 out of 1 blocks
+2026-11-26 22:21:56,020 - INFO - JSON processing completed: simple-object.json, 1 blocks

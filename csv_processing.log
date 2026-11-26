@@ -1,0 +1,23 @@
+2026-11-25 23:08:51,179 - INFO - Starting CSV processing: basic-data.csv
+2026-11-25 23:08:51,179 - INFO - CSV file read using encoding: utf-8
+2026-11-25 23:08:51,179 - WARNING - Extra columns found near line 2
+2026-11-25 23:08:51,179 - INFO - Extracted 101 data rows
+2026-11-25 23:08:51,179 - INFO - Validated 101 out of 101 blocks
+2026-11-25 23:08:51,179 - INFO - CSV processing completed: basic-data.csv, 101 blocks
+2026-11-26 01:19:11,911 - INFO - Starting CSV processing: basic-data.csv
+2026-11-26 01:19:11,929 - INFO - CSV file read using encoding: utf-8
+2026-11-26 01:19:11,957 - WARNING - Extra columns found near line 2
+2026-11-26 01:19:11,963 - INFO - Extracted 101 data rows
+2026-11-26 01:19:11,984 - INFO - Validated 101 out of 101 blocks
+2026-11-26 01:19:12,022 - INFO - CSV processing completed: basic-data.csv, 101 blocks
+2026-11-26 22:15:56,194 - INFO - Starting CSV processing: basic-data.csv
+2026-11-26 22:15:56,223 - INFO - CSV file read using encoding: utf-8
+2026-11-26 22:15:56,231 - WARNING - Extra columns found near line 2
+2026-11-26 22:15:56,245 - INFO - Extracted 101 data rows
+2026-11-26 22:15:56,245 - INFO - Validated 101 out of 101 blocks
+2026-11-26 22:15:56,252 - INFO - CSV processing completed: basic-data.csv, 101 blocks
+2026-11-26 22:21:54,313 - INFO - Starting CSV processing: basic-data.csv
+2026-11-26 22:21:54,337 - INFO - CSV file read using encoding: utf-8
+2026-11-26 22:21:54,347 - INFO - Extracted 100 data rows
+2026-11-26 22:21:54,354 - INFO - Validated 100 out of 100 blocks
+2026-11-26 22:21:54,362 - INFO - CSV processing completed: basic-data.csv, 100 blocks

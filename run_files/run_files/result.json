@@ -1,0 +1,3245 @@
+[
+    [
+        {
+            "text": "ID: 1\nName: Name_1\nAge: 62\nCountry: Country_1\nEmail: email_1@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 1,
+                "row_number": 1,
+                "source_line_end": 2,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 2\nName: Name_2\nAge: 48\nCountry: Country_2\nEmail: email_2@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 2,
+                "row_number": 2,
+                "source_line_end": 3,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 3\nName: Name_3\nAge: 61\nCountry: Country_3\nEmail: email_3@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 3,
+                "row_number": 3,
+                "source_line_end": 4,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 4\nName: Name_4\nAge: 32\nCountry: Country_4\nEmail: email_4@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 4,
+                "row_number": 4,
+                "source_line_end": 5,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 5\nName: Name_5\nAge: 69\nCountry: Country_5\nEmail: email_5@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 5,
+                "row_number": 5,
+                "source_line_end": 6,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 6\nName: Name_6\nAge: 32\nCountry: Country_6\nEmail: email_6@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 6,
+                "row_number": 6,
+                "source_line_end": 7,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 7\nName: Name_7\nAge: 62\nCountry: Country_7\nEmail: email_7@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 7,
+                "row_number": 7,
+                "source_line_end": 8,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 8\nName: Name_8\nAge: 39\nCountry: Country_8\nEmail: email_8@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 8,
+                "row_number": 8,
+                "source_line_end": 9,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 9\nName: Name_9\nAge: 40\nCountry: Country_9\nEmail: email_9@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 9,
+                "row_number": 9,
+                "source_line_end": 10,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 10\nName: Name_10\nAge: 32\nCountry: Country_0\nEmail: email_10@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 10,
+                "row_number": 10,
+                "source_line_end": 11,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 11\nName: Name_11\nAge: 24\nCountry: Country_1\nEmail: email_11@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 11,
+                "row_number": 11,
+                "source_line_end": 12,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 12\nName: Name_12\nAge: 45\nCountry: Country_2\nEmail: email_12@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 12,
+                "row_number": 12,
+                "source_line_end": 13,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 13\nName: Name_13\nAge: 39\nCountry: Country_3\nEmail: email_13@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 13,
+                "row_number": 13,
+                "source_line_end": 14,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 14\nName: Name_14\nAge: 18\nCountry: Country_4\nEmail: email_14@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 14,
+                "row_number": 14,
+                "source_line_end": 15,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 15\nName: Name_15\nAge: 66\nCountry: Country_5\nEmail: email_15@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 15,
+                "row_number": 15,
+                "source_line_end": 16,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 16\nName: Name_16\nAge: 48\nCountry: Country_6\nEmail: email_16@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 16,
+                "row_number": 16,
+                "source_line_end": 17,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 17\nName: Name_17\nAge: 60\nCountry: Country_7\nEmail: email_17@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 17,
+                "row_number": 17,
+                "source_line_end": 18,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 18\nName: Name_18\nAge: 31\nCountry: Country_8\nEmail: email_18@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 18,
+                "row_number": 18,
+                "source_line_end": 19,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 19\nName: Name_19\nAge: 43\nCountry: Country_9\nEmail: email_19@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 19,
+                "row_number": 19,
+                "source_line_end": 20,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 20\nName: Name_20\nAge: 33\nCountry: Country_0\nEmail: email_20@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 20,
+                "row_number": 20,
+                "source_line_end": 21,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 21\nName: Name_21\nAge: 32\nCountry: Country_1\nEmail: email_21@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 21,
+                "row_number": 21,
+                "source_line_end": 22,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 22\nName: Name_22\nAge: 68\nCountry: Country_2\nEmail: email_22@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 22,
+                "row_number": 22,
+                "source_line_end": 23,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 23\nName: Name_23\nAge: 44\nCountry: Country_3\nEmail: email_23@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 23,
+                "row_number": 23,
+                "source_line_end": 24,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 24\nName: Name_24\nAge: 32\nCountry: Country_4\nEmail: email_24@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 24,
+                "row_number": 24,
+                "source_line_end": 25,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 25\nName: Name_25\nAge: 33\nCountry: Country_5\nEmail: email_25@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 25,
+                "row_number": 25,
+                "source_line_end": 26,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 26\nName: Name_26\nAge: 46\nCountry: Country_6\nEmail: email_26@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 26,
+                "row_number": 26,
+                "source_line_end": 27,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 27\nName: Name_27\nAge: 38\nCountry: Country_7\nEmail: email_27@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 27,
+                "row_number": 27,
+                "source_line_end": 28,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 28\nName: Name_28\nAge: 50\nCountry: Country_8\nEmail: email_28@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 28,
+                "row_number": 28,
+                "source_line_end": 29,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 29\nName: Name_29\nAge: 68\nCountry: Country_9\nEmail: email_29@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 29,
+                "row_number": 29,
+                "source_line_end": 30,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 30\nName: Name_30\nAge: 66\nCountry: Country_0\nEmail: email_30@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 30,
+                "row_number": 30,
+                "source_line_end": 31,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 31\nName: Name_31\nAge: 60\nCountry: Country_1\nEmail: email_31@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 31,
+                "row_number": 31,
+                "source_line_end": 32,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 32\nName: Name_32\nAge: 53\nCountry: Country_2\nEmail: email_32@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 32,
+                "row_number": 32,
+                "source_line_end": 33,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 33\nName: Name_33\nAge: 30\nCountry: Country_3\nEmail: email_33@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 33,
+                "row_number": 33,
+                "source_line_end": 34,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 34\nName: Name_34\nAge: 30\nCountry: Country_4\nEmail: email_34@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 34,
+                "row_number": 34,
+                "source_line_end": 35,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 35\nName: Name_35\nAge: 43\nCountry: Country_5\nEmail: email_35@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 35,
+                "row_number": 35,
+                "source_line_end": 36,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 36\nName: Name_36\nAge: 44\nCountry: Country_6\nEmail: email_36@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 36,
+                "row_number": 36,
+                "source_line_end": 37,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 37\nName: Name_37\nAge: 31\nCountry: Country_7\nEmail: email_37@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 37,
+                "row_number": 37,
+                "source_line_end": 38,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 38\nName: Name_38\nAge: 35\nCountry: Country_8\nEmail: email_38@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 38,
+                "row_number": 38,
+                "source_line_end": 39,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 39\nName: Name_39\nAge: 56\nCountry: Country_9\nEmail: email_39@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 39,
+                "row_number": 39,
+                "source_line_end": 40,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 40\nName: Name_40\nAge: 35\nCountry: Country_0\nEmail: email_40@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 40,
+                "row_number": 40,
+                "source_line_end": 41,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 41\nName: Name_41\nAge: 62\nCountry: Country_1\nEmail: email_41@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 41,
+                "row_number": 41,
+                "source_line_end": 42,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 42\nName: Name_42\nAge: 63\nCountry: Country_2\nEmail: email_42@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 42,
+                "row_number": 42,
+                "source_line_end": 43,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 43\nName: Name_43\nAge: 51\nCountry: Country_3\nEmail: email_43@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 43,
+                "row_number": 43,
+                "source_line_end": 44,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 44\nName: Name_44\nAge: 52\nCountry: Country_4\nEmail: email_44@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 44,
+                "row_number": 44,
+                "source_line_end": 45,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 45\nName: Name_45\nAge: 66\nCountry: Country_5\nEmail: email_45@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 45,
+                "row_number": 45,
+                "source_line_end": 46,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 46\nName: Name_46\nAge: 69\nCountry: Country_6\nEmail: email_46@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 46,
+                "row_number": 46,
+                "source_line_end": 47,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 47\nName: Name_47\nAge: 68\nCountry: Country_7\nEmail: email_47@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 47,
+                "row_number": 47,
+                "source_line_end": 48,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 48\nName: Name_48\nAge: 68\nCountry: Country_8\nEmail: email_48@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 48,
+                "row_number": 48,
+                "source_line_end": 49,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 49\nName: Name_49\nAge: 69\nCountry: Country_9\nEmail: email_49@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 49,
+                "row_number": 49,
+                "source_line_end": 50,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 50\nName: Name_50\nAge: 46\nCountry: Country_0\nEmail: email_50@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 50,
+                "row_number": 50,
+                "source_line_end": 51,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 51\nName: Name_51\nAge: 34\nCountry: Country_1\nEmail: email_51@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 51,
+                "row_number": 51,
+                "source_line_end": 52,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 52\nName: Name_52\nAge: 40\nCountry: Country_2\nEmail: email_52@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 52,
+                "row_number": 52,
+                "source_line_end": 53,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 53\nName: Name_53\nAge: 28\nCountry: Country_3\nEmail: email_53@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 53,
+                "row_number": 53,
+                "source_line_end": 54,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 54\nName: Name_54\nAge: 61\nCountry: Country_4\nEmail: email_54@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 54,
+                "row_number": 54,
+                "source_line_end": 55,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 55\nName: Name_55\nAge: 39\nCountry: Country_5\nEmail: email_55@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 55,
+                "row_number": 55,
+                "source_line_end": 56,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 56\nName: Name_56\nAge: 59\nCountry: Country_6\nEmail: email_56@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 56,
+                "row_number": 56,
+                "source_line_end": 57,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 57\nName: Name_57\nAge: 45\nCountry: Country_7\nEmail: email_57@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 57,
+                "row_number": 57,
+                "source_line_end": 58,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 58\nName: Name_58\nAge: 19\nCountry: Country_8\nEmail: email_58@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 58,
+                "row_number": 58,
+                "source_line_end": 59,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 59\nName: Name_59\nAge: 38\nCountry: Country_9\nEmail: email_59@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 59,
+                "row_number": 59,
+                "source_line_end": 60,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 60\nName: Name_60\nAge: 68\nCountry: Country_0\nEmail: email_60@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 60,
+                "row_number": 60,
+                "source_line_end": 61,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 61\nName: Name_61\nAge: 31\nCountry: Country_1\nEmail: email_61@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 61,
+                "row_number": 61,
+                "source_line_end": 62,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 62\nName: Name_62\nAge: 33\nCountry: Country_2\nEmail: email_62@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 62,
+                "row_number": 62,
+                "source_line_end": 63,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 63\nName: Name_63\nAge: 21\nCountry: Country_3\nEmail: email_63@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 63,
+                "row_number": 63,
+                "source_line_end": 64,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 64\nName: Name_64\nAge: 67\nCountry: Country_4\nEmail: email_64@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 64,
+                "row_number": 64,
+                "source_line_end": 65,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 65\nName: Name_65\nAge: 50\nCountry: Country_5\nEmail: email_65@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 65,
+                "row_number": 65,
+                "source_line_end": 66,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 66\nName: Name_66\nAge: 18\nCountry: Country_6\nEmail: email_66@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 66,
+                "row_number": 66,
+                "source_line_end": 67,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 67\nName: Name_67\nAge: 20\nCountry: Country_7\nEmail: email_67@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 67,
+                "row_number": 67,
+                "source_line_end": 68,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 68\nName: Name_68\nAge: 19\nCountry: Country_8\nEmail: email_68@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 68,
+                "row_number": 68,
+                "source_line_end": 69,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 69\nName: Name_69\nAge: 55\nCountry: Country_9\nEmail: email_69@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 69,
+                "row_number": 69,
+                "source_line_end": 70,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 70\nName: Name_70\nAge: 43\nCountry: Country_0\nEmail: email_70@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 70,
+                "row_number": 70,
+                "source_line_end": 71,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 71\nName: Name_71\nAge: 38\nCountry: Country_1\nEmail: email_71@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 71,
+                "row_number": 71,
+                "source_line_end": 72,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 72\nName: Name_72\nAge: 66\nCountry: Country_2\nEmail: email_72@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 72,
+                "row_number": 72,
+                "source_line_end": 73,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 73\nName: Name_73\nAge: 55\nCountry: Country_3\nEmail: email_73@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 73,
+                "row_number": 73,
+                "source_line_end": 74,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 74\nName: Name_74\nAge: 49\nCountry: Country_4\nEmail: email_74@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 74,
+                "row_number": 74,
+                "source_line_end": 75,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 75\nName: Name_75\nAge: 31\nCountry: Country_5\nEmail: email_75@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 75,
+                "row_number": 75,
+                "source_line_end": 76,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 76\nName: Name_76\nAge: 62\nCountry: Country_6\nEmail: email_76@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 76,
+                "row_number": 76,
+                "source_line_end": 77,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 77\nName: Name_77\nAge: 25\nCountry: Country_7\nEmail: email_77@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 77,
+                "row_number": 77,
+                "source_line_end": 78,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 78\nName: Name_78\nAge: 38\nCountry: Country_8\nEmail: email_78@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 78,
+                "row_number": 78,
+                "source_line_end": 79,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 79\nName: Name_79\nAge: 28\nCountry: Country_9\nEmail: email_79@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 79,
+                "row_number": 79,
+                "source_line_end": 80,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 80\nName: Name_80\nAge: 40\nCountry: Country_0\nEmail: email_80@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 80,
+                "row_number": 80,
+                "source_line_end": 81,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 81\nName: Name_81\nAge: 67\nCountry: Country_1\nEmail: email_81@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 81,
+                "row_number": 81,
+                "source_line_end": 82,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 82\nName: Name_82\nAge: 47\nCountry: Country_2\nEmail: email_82@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 82,
+                "row_number": 82,
+                "source_line_end": 83,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 83\nName: Name_83\nAge: 32\nCountry: Country_3\nEmail: email_83@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 83,
+                "row_number": 83,
+                "source_line_end": 84,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 84\nName: Name_84\nAge: 61\nCountry: Country_4\nEmail: email_84@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 84,
+                "row_number": 84,
+                "source_line_end": 85,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 85\nName: Name_85\nAge: 58\nCountry: Country_5\nEmail: email_85@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 85,
+                "row_number": 85,
+                "source_line_end": 86,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 86\nName: Name_86\nAge: 35\nCountry: Country_6\nEmail: email_86@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 86,
+                "row_number": 86,
+                "source_line_end": 87,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 87\nName: Name_87\nAge: 36\nCountry: Country_7\nEmail: email_87@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 87,
+                "row_number": 87,
+                "source_line_end": 88,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 88\nName: Name_88\nAge: 54\nCountry: Country_8\nEmail: email_88@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 88,
+                "row_number": 88,
+                "source_line_end": 89,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 89\nName: Name_89\nAge: 50\nCountry: Country_9\nEmail: email_89@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 89,
+                "row_number": 89,
+                "source_line_end": 90,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 90\nName: Name_90\nAge: 19\nCountry: Country_0\nEmail: email_90@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 90,
+                "row_number": 90,
+                "source_line_end": 91,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 91\nName: Name_91\nAge: 28\nCountry: Country_1\nEmail: email_91@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 91,
+                "row_number": 91,
+                "source_line_end": 92,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 92\nName: Name_92\nAge: 47\nCountry: Country_2\nEmail: email_92@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 92,
+                "row_number": 92,
+                "source_line_end": 93,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 93\nName: Name_93\nAge: 21\nCountry: Country_3\nEmail: email_93@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 93,
+                "row_number": 93,
+                "source_line_end": 94,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 94\nName: Name_94\nAge: 41\nCountry: Country_4\nEmail: email_94@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 94,
+                "row_number": 94,
+                "source_line_end": 95,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 95\nName: Name_95\nAge: 28\nCountry: Country_5\nEmail: email_95@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 95,
+                "row_number": 95,
+                "source_line_end": 96,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 96\nName: Name_96\nAge: 60\nCountry: Country_6\nEmail: email_96@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 96,
+                "row_number": 96,
+                "source_line_end": 97,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 97\nName: Name_97\nAge: 26\nCountry: Country_7\nEmail: email_97@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 97,
+                "row_number": 97,
+                "source_line_end": 98,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 98\nName: Name_98\nAge: 52\nCountry: Country_8\nEmail: email_98@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 98,
+                "row_number": 98,
+                "source_line_end": 99,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 99\nName: Name_99\nAge: 24\nCountry: Country_9\nEmail: email_99@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 99,
+                "row_number": 99,
+                "source_line_end": 100,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        },
+        {
+            "text": "ID: 100\nName: Name_100\nAge: 55\nCountry: Country_0\nEmail: email_100@example.com",
+            "metadata": {
+                "document_id": "22ed81f2-ddc7-43f7-b12f-12ee30b323d4",
+                "document_name": "basic-data.csv",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\basic-data.csv",
+                "file_type": "csv",
+                "encoding": "utf-8",
+                "block_type": "table_row",
+                "block_number": 100,
+                "row_number": 100,
+                "source_line_end": 101,
+                "columns": [
+                    "ID",
+                    "Name",
+                    "Age",
+                    "Country",
+                    "Email"
+                ],
+                "has_header": true,
+                "delimiter": ","
+            }
+        }
+    ],
+    [
+        {
+            "text": "Sample 1",
+            "metadata": {
+                "document_id": "94f23545-f738-4af9-a383-f3fdfb1ef473",
+                "document_name": "sample-1.md",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample-1.md",
+                "file_type": "md",
+                "encoding": "utf-8",
+                "block_type": "heading",
+                "block_number": 1,
+                "line_start": 1,
+                "line_end": 1,
+                "heading_path": [
+                    "Sample 1"
+                ],
+                "section": "Sample 1",
+                "subsection": null,
+                "subsubsection": null,
+                "heading_level": 1
+            }
+        },
+        {
+            "text": "This is the content of sample file 1.",
+            "metadata": {
+                "document_id": "94f23545-f738-4af9-a383-f3fdfb1ef473",
+                "document_name": "sample-1.md",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample-1.md",
+                "file_type": "md",
+                "encoding": "utf-8",
+                "block_type": "paragraph",
+                "block_number": 2,
+                "line_start": 3,
+                "line_end": 3,
+                "heading_path": [
+                    "Sample 1"
+                ],
+                "section": "Sample 1",
+                "subsection": null,
+                "subsubsection": null
+            }
+        },
+        {
+            "text": "oye ye kya h",
+            "metadata": {
+                "document_id": "94f23545-f738-4af9-a383-f3fdfb1ef473",
+                "document_name": "sample-1.md",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample-1.md",
+                "file_type": "md",
+                "encoding": "utf-8",
+                "block_type": "paragraph",
+                "block_number": 3,
+                "line_start": 8,
+                "line_end": 8,
+                "heading_path": [
+                    "Sample 1"
+                ],
+                "section": "Sample 1",
+                "subsection": null,
+                "subsubsection": null
+            }
+        }
+    ],
+    [
+        {
+            "text": "ID: =IF(B2=\"\",\"\",MAX(A$1:A1)+1)\nMonths: January\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")\ncolumn_7: Select Month",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 1,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 2,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A2",
+                    "B2",
+                    "D2",
+                    "G2"
+                ],
+                "formulas": {
+                    "A2": "=IF(B2=\"\",\"\",MAX(A$1:A1)+1)",
+                    "D2": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B3=\"\",\"\",MAX(A$1:A2)+1)\nMonths: February\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")\ncolumn_7: August",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 2,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 3,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A3",
+                    "B3",
+                    "D3",
+                    "G3"
+                ],
+                "formulas": {
+                    "A3": "=IF(B3=\"\",\"\",MAX(A$1:A2)+1)",
+                    "D3": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B4=\"\",\"\",MAX(A$1:A3)+1)\nMonths: March\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 3,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 4,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A4",
+                    "B4",
+                    "D4"
+                ],
+                "formulas": {
+                    "A4": "=IF(B4=\"\",\"\",MAX(A$1:A3)+1)",
+                    "D4": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B5=\"\",\"\",MAX(A$1:A4)+1)\nMonths: April\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 4,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 5,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A5",
+                    "B5",
+                    "D5"
+                ],
+                "formulas": {
+                    "A5": "=IF(B5=\"\",\"\",MAX(A$1:A4)+1)",
+                    "D5": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B6=\"\",\"\",MAX(A$1:A5)+1)\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 5,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 6,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A6",
+                    "D6"
+                ],
+                "formulas": {
+                    "A6": "=IF(B6=\"\",\"\",MAX(A$1:A5)+1)",
+                    "D6": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B7=\"\",\"\",MAX(A$1:A6)+1)\nMonths: June\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 6,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 7,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A7",
+                    "B7",
+                    "D7"
+                ],
+                "formulas": {
+                    "A7": "=IF(B7=\"\",\"\",MAX(A$1:A6)+1)",
+                    "D7": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B8=\"\",\"\",MAX(A$1:A7)+1)\nMonths: July\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 7,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 8,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A8",
+                    "B8",
+                    "D8"
+                ],
+                "formulas": {
+                    "A8": "=IF(B8=\"\",\"\",MAX(A$1:A7)+1)",
+                    "D8": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B9=\"\",\"\",MAX(A$1:A8)+1)\nMonths: August\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 8,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 9,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A9",
+                    "B9",
+                    "D9"
+                ],
+                "formulas": {
+                    "A9": "=IF(B9=\"\",\"\",MAX(A$1:A8)+1)",
+                    "D9": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B10=\"\",\"\",MAX(A$1:A9)+1)\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 9,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 10,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A10",
+                    "D10"
+                ],
+                "formulas": {
+                    "A10": "=IF(B10=\"\",\"\",MAX(A$1:A9)+1)",
+                    "D10": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B11=\"\",\"\",MAX(A$1:A10)+1)\nMonths: October\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 10,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 11,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A11",
+                    "B11",
+                    "D11"
+                ],
+                "formulas": {
+                    "A11": "=IF(B11=\"\",\"\",MAX(A$1:A10)+1)",
+                    "D11": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B12=\"\",\"\",MAX(A$1:A11)+1)\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 11,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 12,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A12",
+                    "D12"
+                ],
+                "formulas": {
+                    "A12": "=IF(B12=\"\",\"\",MAX(A$1:A11)+1)",
+                    "D12": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "ID: =IF(B13=\"\",\"\",MAX(A$1:A12)+1)\nMonths: December\nListMonths: =IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 12,
+                "sheet_name": "Sheet1",
+                "sheet_state": "visible",
+                "row_number": 13,
+                "header_row": 1,
+                "columns": [
+                    "ID",
+                    "Months",
+                    "column_3",
+                    "ListMonths",
+                    "column_5",
+                    "column_6",
+                    "column_7"
+                ],
+                "cell_coordinates": [
+                    "A13",
+                    "B13",
+                    "D13"
+                ],
+                "formulas": {
+                    "A13": "=IF(B13=\"\",\"\",MAX(A$1:A12)+1)",
+                    "D13": "=IFERROR(INDEX($B$2:$B$13,MATCH(ROW()-ROW($D$1),$A$2:$A$13,0)),\"\")"
+                },
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Pivot Power Premium Add-in\ncolumn_3: Time-saving tools for pivot table power users",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 13,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 3,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B3",
+                    "C3"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B3": "http://www.contextures.com/xlPivotPremAddIn.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: UserForms for Data Entry ebook Kit\ncolumn_3: Step by step instructions and videos",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 14,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 4,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B4",
+                    "C4"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B4": "http://www.contextures.com/exceluserformsfordataentry.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Contextures Excel Tools Add-in\ncolumn_3: Make instant backups, sort sheets, and many more tools",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 15,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 5,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B5",
+                    "C5"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B5": "http://www.contextures.com/exceltoolsaddin.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Data Entry Search Popup\ncolumn_3: Makes data entry easier when choosing from long list",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 16,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 6,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B6",
+                    "C6"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B6": "http://www.contextures.com/dataentrysearchpopup.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Data Entry Popup\ncolumn_3: Select single or multiple items from a listbox, to enter in a single cell",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 17,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 7,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B7",
+                    "C7"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B7": "http://www.contextures.com/datavalidationmultiselectpremium.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: 30 Excel Functions in 30 Days eBook Kit\ncolumn_3: Sample workbook and easy to follow user guide for key Excel functions",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 18,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 8,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B8",
+                    "C8"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B8": "http://www.contextures.com/30excelfunctionsin30days01.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Contextures Sites & News",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 19,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 10,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B10"
+                ],
+                "formulas": {},
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Contextures Excel Newsletter\ncolumn_3: Weekly Excel tips, tutorials, videos, and news",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 20,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 11,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B11",
+                    "C11"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B11": "http://www.contextures.com/excelnewslettersignup.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Contextures Excel Tips Website\ncolumn_3: Hundreds of tutorials, tips and sample files",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 21,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 12,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B12",
+                    "C12"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B12": "http://www.contextures.com/tiptech.html"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Contextures Excel Blog\ncolumn_3: Read the Excel tutorials and share your comments",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 22,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 13,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B13",
+                    "C13"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B13": "http://blog.contextures.com/"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Excel Pivot Tables Blog\ncolumn_3: Pivot table tutorials and tips, with comments and questions",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 23,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 14,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B14",
+                    "C14"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B14": "http://www.pivot-table.com/"
+                },
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Other Excel Products",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 24,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 16,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B16"
+                ],
+                "formulas": {},
+                "hyperlinks": {},
+                "merged_ranges": []
+            }
+        },
+        {
+            "text": "Contextures Products: Contextures Recommends\ncolumn_3: Other Excel tools and training, recommended by Debra",
+            "metadata": {
+                "document_id": "1382788a-8ed9-4a94-83e9-5fc4fb43c192",
+                "document_name": "sample3.xlsx",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\sample3.xlsx",
+                "file_type": "xlsx",
+                "block_type": "spreadsheet_row",
+                "block_number": 25,
+                "sheet_name": "MyLinks",
+                "sheet_state": "visible",
+                "row_number": 17,
+                "header_row": 2,
+                "columns": [
+                    "column_1",
+                    "Contextures Products",
+                    "column_3"
+                ],
+                "cell_coordinates": [
+                    "B17",
+                    "C17"
+                ],
+                "formulas": {},
+                "hyperlinks": {
+                    "B17": "http://www.contextures.com/ctxrmd"
+                },
+                "merged_ranges": []
+            }
+        }
+    ],
+    [
+        {
+            "metadata": {
+                "format": "PDF 1.3",
+                "title": "",
+                "author": "",
+                "subject": "",
+                "keywords": "",
+                "creator": "",
+                "producer": "macOS Version 26.6.2 (Build 25G83) Quartz PDFContext",
+                "creationDate": "D:20261111152720Z00'00'",
+                "modDate": "D:20261111152720Z00'00'",
+                "trapped": "",
+                "encryption": null,
+                "file_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\Sankar Group – AI Automation Internship Assignment.pdf",
+                "page_count": 3,
+                "page_number": 1
+            },
+            "text": "# **Sankar Group – AI Automation Internship Assignment** \n\n**Assignment Title:** AI-Powered Instagram Influencer Research & Email Outreach Automation \n\n**Department:** Artificial Intelligence & Automation **Duration:** 48 Hours **Level:** Practical Project \n\n**Tools:** Claude AI, Instagram, Gmail, Google Sheets, n8n / Make / Python / APIs or any suitable tools. \n\n## **1. Objective** \n\nBuild an AI-powered automation system that identifies relevant influencers on Instagram, collects their publicly available business contact details, sends personalized cold emails through Gmail, manages follow-ups, and handles incoming email replies. \n\nThe objective is to automate the complete influencer outreach process with minimum manual work. \n\n## **2. Required Workflow** \n\n### **Step 1: Instagram Influencer Research** \n\n- Search Instagram for influencers based on niche, keywords, location, and follower count. \n\n- Identify relevant influencers for a selected brand or campaign. \n\n- Collect publicly available information: \n\n - Influencer name \n\n - Instagram username and profile link \n\n - Niche/category \n\n - Follower count \n\n - Public business email or contact details \n\n - Location, if available \n\n- Avoid private data, unauthorized access, and methods that violate Instagram's terms. \n\n### **Step 2: AI-Based Influencer Filtering** \n\nUse Claude AI to: \n\n- Analyse influencer profiles and available information. \n\n- Identify influencers relevant to the selected brand. \n\n- Categorize them based on niche and relevance. \n\n- Generate a short profile summary. \n\n- Assign a suitability score and prioritize the best prospects."
+        },
+        {
+            "metadata": {
+                "format": "PDF 1.3",
+                "title": "",
+                "author": "",
+                "subject": "",
+                "keywords": "",
+                "creator": "",
+                "producer": "macOS Version 26.6.2 (Build 25G83) Quartz PDFContext",
+                "creationDate": "D:20261111152720Z00'00'",
+                "modDate": "D:20261111152720Z00'00'",
+                "trapped": "",
+                "encryption": null,
+                "file_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\Sankar Group – AI Automation Internship Assignment.pdf",
+                "page_count": 3,
+                "page_number": 2
+            },
+            "text": "### **Step 3: Google Sheets / CRM Integration** \n\nAutomatically save influencer details into Google Sheets or a simple CRM. \n\nSuggested statuses: \n\n- New Lead \n\n- Email Available \n\n- Email Sent \n\n- Follow-up Due \n\n- Replied \n\n- Interested \n\n- Not Interested \n\n- Collaboration Confirmed \n\nAvoid duplicate records. \n\n### **Step 4: AI-Powered Cold Email** \n\nConnect Gmail and use Claude AI to generate personalized emails for each influencer. \n\nThe email should: \n\n- Introduce the brand. \n\n- Explain the collaboration opportunity. \n\n- Include relevant details about why the influencer was selected. \n\n- Have a clear call to action. \n\n- Include appropriate sender identification and an opt-out option. \n\nSend emails through Gmail with reasonable sending limits and applicable anti-spam compliance. Keep human approval before the initial campaign send. \n\n### **Step 5: Automated Follow-up Emails** \n\n- Track sent emails and responses. \n\n- Automatically identify emails that have not received a reply. \n\n- Send a personalized follow-up after 3–5 days. \n\n- Send a second follow-up after another 5–7 days, if appropriate. \n\n- Stop follow-ups immediately when the influencer replies, declines, or opts out. \n\n### **Step 6: AI Email Reply Management** \n\nConnect Gmail to Claude AI to: \n\n- Read and classify incoming replies. \n\n- Identify interested, not interested, pricing enquiries, and collaboration requests. \n\n- • Generate suitable reply drafts. \n\n- Suggest the next action. \n\n- Update the influencer's status in Google Sheets / CRM."
+        },
+        {
+            "metadata": {
+                "format": "PDF 1.3",
+                "title": "",
+                "author": "",
+                "subject": "",
+                "keywords": "",
+                "creator": "",
+                "producer": "macOS Version 26.6.2 (Build 25G83) Quartz PDFContext",
+                "creationDate": "D:20261111152720Z00'00'",
+                "modDate": "D:20261111152720Z00'00'",
+                "trapped": "",
+                "encryption": null,
+                "file_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\Sankar Group – AI Automation Internship Assignment.pdf",
+                "page_count": 3,
+                "page_number": 3
+            },
+            "text": "For the assignment, AI-generated replies should be reviewed and approved by a human before sending. \n\n## **3. Expected Final Output** \n\nThe candidate must demonstrate a working end-to-end automation: \n\n**Instagram Research → Contact Collection → AI Filtering → Google Sheets → Personalized Gmail Outreach → Follow-ups → Reply Detection → AI Reply Draft → CRM Status Update** \n\n# **4. Submission Requirements** \n\nSubmit the following: \n\n1. Working automation demo with all major workflow steps. \n\n2. Screen-recorded video explaining the complete process. \n\n3. Source code, workflow export, or automation platform link. \n\n4. Sample Google Sheet / CRM with test influencer records. \n\n5. Sample initial email, follow-up email, and AI-generated reply. \n\n6. Short explanation of tools used and how the system works. \n\n**Important:** A static presentation or pre-recorded mockup is not sufficient. The candidate must demonstrate a working process using test data and authorized accounts. \n\n## **5. Evaluation Criteria** \n\n**Evaluation Area Weightage** Instagram research and data collection 20% Claude AI integration and personalization 20% Gmail automation and follow-ups 20% AI reply management 20% End-to-end workflow and demonstration 20% \n\n**Final Goal:** Build a practical AI-powered influencer outreach assistant that can discover relevant influencers, organize prospects, manage email campaigns, and assist with collaboration communication automatically."
+        }
+    ],
+    [
+        {
+            "text": "_credit: This sample JSON file is provided by Sample-Files.com. Visit us for more sample files and resources.\nname: John Doe\nage: 30\nemail: john.doe@example.com\nisActive: true",
+            "metadata": {
+                "document_id": "9b4dc446-fb5d-4fa8-a0b9-1e83f254e9d4",
+                "document_name": "simple-object.json",
+                "source_path": "C:\\Users\\yashw\\Desktop\\RAG\\input_files\\simple-object.json",
+                "file_type": "json",
+                "encoding": "utf-8",
+                "block_type": "json_record",
+                "block_number": 1,
+                "structure_type": "object",
+                "json_path": "",
+                "parent_path": "",
+                "record_index": null,
+                "top_level_type": "object",
+                "top_level_keys": [
+                    "_credit",
+                    "name",
+                    "age",
+                    "email",
+                    "isActive"
+                ],
+                "context_fields": []
+            }
+        }
+    ]
+]

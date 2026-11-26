@@ -1,0 +1,44 @@
+[
+    {
+        "input": [
+            {
+                "text": "This is a sample text block. It contains multiple sentences. The purpose of this block is to demonstrate the chunking process.",
+                "metadata": {
+                    "source": "sample_source"
+                }
+            },
+            {
+                "text": "Another text block is here. It also has multiple sentences. This block will be chunked as well.",
+                "metadata": {
+                    "source": "another_source"
+                }
+            }
+        ],
+        "output": [
+            {
+                "text": "This is a sample text block. It contains multiple sentences. The purpose of this block is to demonstrate the chunking process.",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": 0,
+                    "chunk_id": "f7ee92be-a006-424d-87b0-5999be7996d6",
+                    "chunk_number": 1,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 0,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "Another text block is here. It also has multiple sentences. This block will be chunked as well.",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": 0,
+                    "chunk_id": "dd6c0c2a-61a9-4d64-bfb8-cf24d8039330",
+                    "chunk_number": 2,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 0,
+                    "chunking_method": "recursive_character"
+                }
+            }
+        ]
+    }
+]
