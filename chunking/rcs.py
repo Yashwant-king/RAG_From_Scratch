@@ -55,6 +55,7 @@ def final_function(
             texts=[text],
             metadatas=[metadata]
         )
+        print(type(documents))
 
         for chunk_index, document in enumerate(documents):
 
@@ -73,7 +74,7 @@ def final_function(
                 "metadata": chunk_metadata
             })
 
-    vscode_lsp_terminal_prompt_tracker["chunks"] = output
+   
 
     return output   # list of chunks with preserved metadata
 
@@ -92,7 +93,7 @@ if __name__ == "__main__":
         }
     ]
 
-    chunks = final_function(blocks, chunk_size=50, chunk_overlap=10)
+    chunks = final_function(blocks, chunk_size=4, chunk_overlap=2)
 
     with open("chunking/rcs_output.json", "w") as f:
           chunks= [{"input": blocks, "output": chunks}]

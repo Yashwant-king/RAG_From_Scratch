@@ -16,11 +16,11 @@
         ],
         "output": [
             {
-                "text": "This is a sample text block. It contains multiple sentences. The purpose of this block is to demonstrate the chunking process.",
+                "text": "This is a sample",
                 "metadata": {
                     "source": "sample_source",
                     "start_index": 0,
-                    "chunk_id": "f7ee92be-a006-424d-87b0-5999be7996d6",
+                    "chunk_id": "67bc258c-3906-4ad8-af27-b3f5940352fe",
                     "chunk_number": 1,
                     "source_block_index": 0,
                     "source_block_chunk_index": 0,
@@ -28,14 +28,218 @@
                 }
             },
             {
-                "text": "Another text block is here. It also has multiple sentences. This block will be chunked as well.",
+                "text": "a sample text block",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": -1,
+                    "chunk_id": "b4b4bab7-9ade-45d2-a04f-62bf866c6d0f",
+                    "chunk_number": 2,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 1,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": ". It contains multiple",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": 27,
+                    "chunk_id": "0110dc0d-d2db-4868-890b-a838f85746a2",
+                    "chunk_number": 3,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 2,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "contains multiple sentences",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": -1,
+                    "chunk_id": "1262cb69-af04-4245-b242-b480ffe7a5b4",
+                    "chunk_number": 4,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 3,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": ". The purpose of",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": 59,
+                    "chunk_id": "b3340205-0535-406e-83fe-cead34367544",
+                    "chunk_number": 5,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 4,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "purpose of this block",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": -1,
+                    "chunk_id": "49d96b98-aa31-41dc-b75a-2ee5bab55e04",
+                    "chunk_number": 6,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 5,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "this block is to",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": 76,
+                    "chunk_id": "7c43d39c-ea8b-4171-ad23-35d06591a55e",
+                    "chunk_number": 7,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 6,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "is to demonstrate the",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": -1,
+                    "chunk_id": "45bf7d50-0ff3-4ab2-a40f-956c1a833454",
+                    "chunk_number": 8,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 7,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "demonstrate the chunking",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": 93,
+                    "chunk_id": "3730440b-7e83-41b9-9c9d-40cc561d48a2",
+                    "chunk_number": 9,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 8,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "chunking process.",
+                "metadata": {
+                    "source": "sample_source",
+                    "start_index": -1,
+                    "chunk_id": "e69d0e15-6302-4af3-8995-5c889bbc60ba",
+                    "chunk_number": 10,
+                    "source_block_index": 0,
+                    "source_block_chunk_index": 9,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "Another text block is",
                 "metadata": {
                     "source": "another_source",
                     "start_index": 0,
-                    "chunk_id": "dd6c0c2a-61a9-4d64-bfb8-cf24d8039330",
-                    "chunk_number": 2,
+                    "chunk_id": "da354de3-f8ef-46a7-95c3-995685bc13dd",
+                    "chunk_number": 11,
                     "source_block_index": 1,
                     "source_block_chunk_index": 0,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "block is here",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": -1,
+                    "chunk_id": "bac91699-6bf7-4c35-9bf8-e9202837f713",
+                    "chunk_number": 12,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 1,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": ". It also has",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": 26,
+                    "chunk_id": "2360aad1-1be9-4c0a-ba5d-137c284960e6",
+                    "chunk_number": 13,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 2,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "also has multiple sentences",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": -1,
+                    "chunk_id": "c4c4ce67-2049-4760-a3c9-a57356d30568",
+                    "chunk_number": 14,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 3,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": ". This block will",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": 58,
+                    "chunk_id": "b9905690-74d7-4eef-9c26-947889f6ff00",
+                    "chunk_number": 15,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 4,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "block will be",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": -1,
+                    "chunk_id": "fa08fbff-e55a-406b-99c3-afb933aa1d33",
+                    "chunk_number": 16,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 5,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "will be chunked",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": 71,
+                    "chunk_id": "b080e361-5ef2-45dc-87db-6dff7e67fdb5",
+                    "chunk_number": 17,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 6,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "chunked as",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": -1,
+                    "chunk_id": "b765e7ef-4ff9-4986-ae9a-8365eba8c346",
+                    "chunk_number": 18,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 7,
+                    "chunking_method": "recursive_character"
+                }
+            },
+            {
+                "text": "as well.",
+                "metadata": {
+                    "source": "another_source",
+                    "start_index": 87,
+                    "chunk_id": "badce9a0-1b05-47c5-9a9f-f99814b90c1f",
+                    "chunk_number": 19,
+                    "source_block_index": 1,
+                    "source_block_chunk_index": 8,
                     "chunking_method": "recursive_character"
                 }
             }

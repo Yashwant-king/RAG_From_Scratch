@@ -1,0 +1,54 @@
+{
+    "is_valid": true,
+    "valid_chunks": [
+        {
+            "text": "Machine learning is a subset of AI.",
+            "metadata": {
+                "chunk_id": "chunk_001",
+                "chunk_number": 1,
+                "document_id": "doc_001",
+                "document_name": "AI.txt",
+                "file_type": "txt",
+                "chunking_method": "recursive_character",
+                "chunk_token_count": 9,
+                "source_block_index": 0
+            }
+        },
+        {
+            "text": "Deep learning uses neural networks.",
+            "metadata": {
+                "chunk_id": "chunk_002",
+                "chunk_number": 2,
+                "document_id": "doc_001",
+                "document_name": "AI.txt",
+                "file_type": "txt",
+                "chunking_method": "recursive_character",
+                "chunk_token_count": 8,
+                "source_block_index": 1
+            }
+        }
+    ],
+    "errors": [],
+    "warnings": [
+        "Chunk 0: Stored token count (9) differs from actual count (8).",
+        "Chunk 1: Stored token count (8) differs from actual count (6)."
+    ],
+    "statistics": {
+        "total_chunks": 2,
+        "valid_text_chunks": 2,
+        "file_type_distribution": {
+            "txt": 2
+        },
+        "chunking_method_distribution": {
+            "recursive_character": 2
+        },
+        "average_characters": 35.0,
+        "total_tokens": 14,
+        "average_tokens": 7.0,
+        "minimum_tokens": 6,
+        "maximum_tokens": 8,
+        "invalid_chunks": 0,
+        "error_count": 0,
+        "warning_count": 2
+    }
+}
